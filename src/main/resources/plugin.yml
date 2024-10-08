@@ -1,0 +1,5 @@
+name: LavaBoost
+version: '1.0.0'
+main: winlyps.lavaBoost.LavaBoost
+api-version: '1.16'
+authors: [ Winlyps ]
